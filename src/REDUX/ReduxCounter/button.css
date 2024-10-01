@@ -1,0 +1,15 @@
+.counter-button{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.px-2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+ 
+}
