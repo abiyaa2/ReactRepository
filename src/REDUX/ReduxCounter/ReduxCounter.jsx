@@ -10,6 +10,7 @@ const ReduxCounter = () => {
     dispatch(increment(1));
   };
   const decrementApp = () => {
+    //To check Positive Values
     if (count > 0) {
       dispatch(decrement(1));
     }
