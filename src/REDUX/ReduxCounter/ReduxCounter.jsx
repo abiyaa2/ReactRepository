@@ -29,7 +29,7 @@ const ReduxCounter = () => {
         <button className=" btn btn-danger me-3" onClick={decrementApp}>
           Decrement
         </button>
-        <button className="btn btn-primary me-3" onClick={resetApp}>
+        <button className="btn btn-warning me-3" onClick={resetApp}>
           Reset
         </button>
       </div>
