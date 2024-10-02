@@ -22,7 +22,10 @@ const ReduxCounter = () => {
     <>
       <h4 className="px-2"> Counter : {count}</h4>
       <div className="counter-button">
-        <button className="btn btn-success me-3 mt-3" onClick={incrementApp}>
+        <button
+          className="btn btn-success me-3 ms-3 mt-3"
+          onClick={incrementApp}
+        >
           {" "}
           Increment
         </button>
